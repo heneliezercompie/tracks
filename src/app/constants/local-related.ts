@@ -1,2 +1,2 @@
-export const ALL_TRACKS_ROUTE = 'allTracks';
-export const MY_PLAYLIST_ROUTE = 'myPlaylist';
+export const REGISTER_ROUTE = 'register';
+export const LOGIN_ROUTE = '';
